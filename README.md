@@ -1,4 +1,4 @@
-<img width="2559" height="1439" alt="preview" src="https://github.com/user-attachments/assets/5df873c6-d603-4e49-b5ce-ea5d8f51dba7" />
+![previewwd](https://github.com/user-attachments/assets/48944bd9-76de-4f2e-b4a7-94611ec628b8)
 
 SYRI DOTFILES
 
